@@ -3,7 +3,7 @@
 <h3 align="center">Honours Computer Science Student at the University of Guelph</h3>
 
 
- 👨‍💻 All of my projects are available at my [Portfolio](musical-pika-f5d62e.netlify.app)
+ 👨‍💻 All of my projects are available at my [Portfolio](https://musical-pika-f5d62e.netlify.app)
 
  📫 How to reach me **harish182@icloud.com**
 
