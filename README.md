@@ -3,9 +3,9 @@
 <h3 align="center">Honours Computer Science Student at the University of Guelph</h3>
 
 
- 👨‍💻 All of my projects are available at my [Portfolio](https://musical-pika-f5d62e.netlify.app)
+ 👨‍💻 All of my projects are available at my [Portfolio](https://sriharisheswarathas.netlify.app/)
 
- 📫 How to reach me **harish182@icloud.com**
+ 📫 How to reach me **harisheswarathas@gmail.com**
 
  📄 Know about my experiences [Resume](https://musical-pika-f5d62e.netlify.app/assets/Sriharish-Eswarathas-Resume.pdf)
 
