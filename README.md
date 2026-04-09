@@ -37,16 +37,6 @@ I build user-focused software, explore human-computer interaction, and design sy
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishe182&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishe182&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ✨ What Sets Me Apart
 I combine **technical skills with research thinking**. I don’t just build systems — I analyze how people use them, identify gaps, and improve the experience. I care about clarity, usability, and building things that actually help.
 
